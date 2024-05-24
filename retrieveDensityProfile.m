@@ -16,7 +16,7 @@ alpha = 0.1;        % Symbol roll off factor (if symbols are pulse shaped)
 M = 2;              % Modulation order
 modScheme = 'QAM';  % Modulation scheme (PSK or QAM)
 
-%% Calculated parameters
+%% Calculated parametersssss
 Ts = Tc/Ns;  % [s] Symbol period
 Rs = 1/Ts;   % [Bd] Symbol rate
 b = log2(M); % # bits per symbol
