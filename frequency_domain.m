@@ -1,5 +1,5 @@
 function [Px,f] = frequency_domain(x,Fs,type)
-%FREQUENCY_DOMAIN calculates the power spectrum. modificaro
+%FREQUENCY_DOMAIN calculates the power spectrum.
 %
 % -- Inputs:
 %            - x: Time domain signal
