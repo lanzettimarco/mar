@@ -2,7 +2,7 @@ clear, clc, close all;
 
 addpath("functions/")
 
-%% System input parameters
+%% System input parameterssssssssssssssssssssssss
 fs = 4e9;           % [Hz] Sampling frequency
 % Sensing
 Tc = 1e-3;          % [s] Chirp time
